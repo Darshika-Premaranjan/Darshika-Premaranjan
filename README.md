@@ -65,21 +65,9 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 
 ---
 
-## 🌟 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshika-Premaranjan&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🚀 LeetCode Progress
 
-<p align="center">
-  <a href="https://leetcode.com/DarshikaP/">
-    <img src="https://leetcode-stats-api.herokuapp.com/DarshikaP" alt="LeetCode Stats" />
-  </a>
-</p>
+🏅 **LeetCode Profile**: [Darshika (DarshikaP)](https://leetcode.com/DarshikaP/
 
 
 ## 📫 Let's Connect!
