@@ -76,12 +76,10 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 ## 🚀 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/u/DarshikaP/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=DarshikaP" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/DarshikaP/">
+    <img src="https://leetcode-stats-api.herokuapp.com/DarshikaP" alt="LeetCode Stats" />
   </a>
 </p>
-
----
 
 ## 📫 Let's Connect!
 
