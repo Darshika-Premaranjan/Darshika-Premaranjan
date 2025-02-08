@@ -14,6 +14,11 @@
 
 Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passionate about coding, problem-solving, and exploring new technologies. I’m currently learning **C#** and actively enhancing my development skills.
 
+### Hobbies:
+- Playing badminton.
+- Problem-solving.
+- Learning about geographical patterns of Earth.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -24,6 +29,7 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Frameworks & Libraries:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,6 +46,10 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Additional Skills:**  
+- Object-Oriented Programming (OOP)
+- Design Patterns
 
 ---
 
