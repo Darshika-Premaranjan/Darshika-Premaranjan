@@ -65,11 +65,6 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 
 ---
 
-## 🚀 LeetCode Progress
-
-🏅 **LeetCode Profile**: [Darshika (DarshikaP)](https://leetcode.com/DarshikaP/
-
-
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -85,11 +80,6 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 </p>
 
 ---
-
-## 🎥 Coding Vibes
-<p align="center">
-  <img src="https://github.com/Darshika-Premaranjan/Darshika-Premaranjan/blob/main/coding-girl.gif" alt="Coding GIF" width="300" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&lines=Thank+you+for+visiting!;Feel+free+to+connect+%F0%9F%91%8B" alt="Typing SVG" />
