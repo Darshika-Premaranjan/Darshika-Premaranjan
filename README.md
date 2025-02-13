@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passionate about coding, problem-solving, and exploring new technologies. I’m currently learning **C#** and actively enhancing my development skills.
+Hello! I'm **Premaranjan Darshika**, a Computer Engineering undergraduate passionate about coding, problem-solving, and exploring new technologies. I’m currently learning **C#** and actively enhancing my development skills.
 
 ### Hobbies:
 - Playing badminton.
